@@ -29,7 +29,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: dist-artifact
-          path: D:\Git\job_artifacts\01 Starting Project\dist
+          path: dist/
           # path: |
           #   dist
           #   package.json
